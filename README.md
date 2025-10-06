@@ -1,24 +1,24 @@
-DMart Sales Dashboard
+## DMart Sales Dashboard
 An interactive Power BI dashboard analyzing DMart's grocery sales performance across Tamil Nadu regions.
 
-Overview
+# Overview
 This project provides comprehensive sales analytics for DMart retail stores, featuring regional performance analysis, category-wise sales breakdown, and temporal trends to support data-driven business decisions.
 
-Features
+# Features
 Regional sales performance comparison
 
-Monthly sales trend analysis
+1. Monthly sales trend analysis
 
-Product category sales distribution
+2. Product category sales distribution
 
-Interactive filters for region and category
+3. Interactive filters for region and category
 
-Profit margin analysis by sub-category
+4. Profit margin analysis by sub-category
 
-Dataset
+# Dataset
 Contains 1,470+ grocery sales transactions from DMart stores across Tamil Nadu, including order details, customer information, regional data, and financial metrics.
 
-Insights
+# Insights
 Key findings include Central region sales dominance, seasonal peaks during festival periods, Food Grains category leadership, and high customer retention rates.
 
 
